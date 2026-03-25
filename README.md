@@ -47,19 +47,27 @@ Formatting Layer: Custom parsers split the AI response into English, Corrections
 ├── requirements.txt       # Project dependencies
 └── .gitignore             # Files to be ignored by Git
 ---
+
 *1.Clone the Repository:*
+
 git clone https://github.com/your-username/ai-english-tutor.git
+
 cd ai-english-tutor
 
-*2.Environment Setup*
+*2.Environment Setup
+
 pip install -r requirements.txt
 
 *3. API Configuration
+
 Create a .env file in the root directory and add your Groq API key:*
+
 GROQ_API_KEY=your_groq_api_key_here
 
 *4. Run the Application
+
 Launch the local server:*
+
 python app.py
 
 --->>> Access the interface at http://127.0.0.1:7860
