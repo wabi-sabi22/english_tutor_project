@@ -3,10 +3,14 @@
 ---
 Your Personal AI Speaking Coach for Real-Time Fluency
 AI English Tutor is an interactive voice-to-voice application designed to help English learners break the "speaking barrier." By providing a judgment-free environment, it helps you build reflexes, correct grammar in real-time, and practice natural conversations.
+<img width="1564" height="914" alt="image" src="https://github.com/user-attachments/assets/ee0b22ff-de10-4a4d-a720-b9e91c96a111" />
+
+<img width="1749" height="916" alt="image" src="https://github.com/user-attachments/assets/0720ca31-4e0c-4357-9f6d-57500f47ff68" />
+
 
 View Demo ()
 
-Deloy ()
+Deloy: (https://huggingface.co/spaces/nhu445/ai-english-tutor)
 
 🌟 The Problem It Solves
 Many students possess strong "passive English" (reading and writing) but struggle with "active English" (speaking). This project creates a low-pressure environment to:
