@@ -34,18 +34,8 @@ Formatting Layer: Custom parsers split the AI response into English, Corrections
 
 📁 File Structure
 ---
-.
-├── core/
-│   ├── engine.py          # AI Logic (Dialogue & Context management)
-│   ├── helpers.py         # Response parsing & text formatting
-│   ├── prompts.py         # System instructions for the AI Tutor
-│   ├── voice_service.py   # Audio processing (STT & TTS engines)
-│   └── __init__.py        # Package initialization
-├── utils/                 # General utility helper functions
-├── app.py                 # Main entry point (Gradio UI)
-├── settings.py            # Global configurations & model parameters
-├── requirements.txt       # Project dependencies
-└── .gitignore             # Files to be ignored by Git
+<img width="810" height="392" alt="image" src="https://github.com/user-attachments/assets/8aedd887-48e1-4a07-9083-01fcaf092ac7" />
+
 ---
 
 *1.Clone the Repository:*
