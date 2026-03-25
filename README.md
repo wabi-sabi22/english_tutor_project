@@ -5,6 +5,7 @@ Your Personal AI Speaking Coach for Real-Time Fluency
 AI English Tutor is an interactive voice-to-voice application designed to help English learners break the "speaking barrier." By providing a judgment-free environment, it helps you build reflexes, correct grammar in real-time, and practice natural conversations.
 View Demo ()
 Deloy ()
+
 🌟 The Problem It Solves
 Many students possess strong "passive English" (reading and writing) but struggle with "active English" (speaking). This project creates a low-pressure environment to:
 Build instant speaking reflexes.
@@ -13,13 +14,18 @@ Practice listening to various native accents.
 Bridge the gap between thinking in a native language and speaking in English.
 
 ✨ Key Features
+
 🎙️ Voice-First Interaction: Uses Google STT for high-accuracy voice recognition with a simple hold-to-talk interface.
+
 🧠 Intelligent Feedback: Powered by Llama-3.3-70B via Groq to provide native-level corrections and contextual follow-up questions.
 🇻🇳 Bilingual Support: Provides both the English response and its Vietnamese translation to ensure full comprehension.
-🔊 Natural Text-to-Speech: Integrated with gTTS to read responses aloud in customizable US or UK accents.
+
+🔊 Natural Text-to-Speech: Integrated with gTTS to read responses aloud in customizable US or UK accents
+
 📱 Clean Interface: A modern Gradio UI featuring full chat history and session management.
 
 🏗️ Project Architecture
+
 The system operates on a modular pipeline to ensure low latency:
 User Layer: Gradio captures audio input from the user.
 Voice Layer: Google STT converts audio to text; gTTS converts AI text back to audio.
